@@ -1,1 +1,1 @@
-# C_plus_course
+# Java_course
